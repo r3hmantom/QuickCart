@@ -7,11 +7,14 @@ import {
   Checkout,
   Appetizer,
 } from "./components";
+import styles from "./style";
 
 const App = () => {
   return (
     <>
-      <Navbar />
+      <section className={styles.boxWidth}>
+        <Navbar />
+      </section>
       <Infobar />
       <Banner />
       <Sidebar />
