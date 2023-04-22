@@ -30,6 +30,8 @@ const Navbar = () => {
             <span>Sign In/ </span> Sign Up
           </button>
         </div>
+
+        {/* Mobile Navbar  */}
       </div>
     </nav>
   );
