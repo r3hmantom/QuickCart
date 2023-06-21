@@ -1,6 +1,6 @@
 import cart from "./cartIcon.svg";
 import clock from "./clockIcon.svg";
-import creditcard from "./creditCardIcon.svg";
+import creditcard from "./creditcardIcon.svg";
 import heart from "./heartIcon.svg";
 import location from "./locationIcon.svg";
 import quickcart from "./quickCartLogo.svg";
